@@ -47,12 +47,12 @@ def main():
         "mysql_import": False,           # Import data from MySQL? If False, reads from CSV.
         "mysql_export": True,            # Export processed data to MySQL?
         "mysql_host": "localhost",       # MySQL server address
-        "mysql_user": "root",            # MySQL username
-        "mysql_password": "151820",      # User password
-        "mysql_database": "pre_eda",     # Database to import from
+        "mysql_user": " ",            # MySQL username
+        "mysql_password": " ",      # User password
+        "mysql_database": " ",     # Database to import from
         "mysql_table_import": " ",   # Source table in MySQL
-        "mysql_table_export": "test_3", # Destination table for export
-        "mysql_schema_export": "pre_eda" # Destination schema (created if it does not exist)
+        "mysql_table_export": " ", # Destination table for export
+        "mysql_schema_export": " " # Destination schema (created if it does not exist)
     }
 
     # =========================================================================
