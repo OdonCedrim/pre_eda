@@ -1,4 +1,4 @@
-# 🔍 EDA-Pipeline: Automated Data Preprocessing & EDA Toolkit
+# EDA Toolkit
 
 ![GitHub stars](https://img.shields.io/github/stars/OdonCedrim/pre_eda?style=social)
 ![License](https://img.shields.io/badge/License-MIT-blue)
