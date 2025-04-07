@@ -33,3 +33,9 @@ An integrated pipeline for **cleaning, exploratory analysis (EDA)**, and **MySQL
   Import/export tables and auto-create schemas.
 - **Scalable**:  
   Handles large datasets efficiently with categorical optimization.
+
+---
+
+## Data Source
+
+All generated results (report.txt, images, and dataframes) have been produced using data from the [Online Retail Data](https://www.kaggle.com/datasets/ertugrulesol/online-retail-data) dataset available on Kaggle.
