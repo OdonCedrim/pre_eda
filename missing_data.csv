@@ -1,0 +1,280 @@
+customer_id,order_date,product_id,category_id,category_name,product_name,quantity,price,payment_method,city,review_score,gender,age
+23188,2024-06-01,682,50,Sports & Outdoors,Soccer Ball,5,299.34,Credit Card,Port Matthew,,M,59
+79809,2024-06-07,706,10,Electronics,Tablet,5,272.75,Bank Transfer,North Jessicabury,,M,57
+27282,2024-07-15,405,50,Sports & Outdoors,Yoga Mat,2,292.9,Cash on Delivery,Aliciaberg,,F,60
+41736,2024-10-28,457,10,Electronics,Tablet,4,196.99,Bank Transfer,North Anthony,4.0,,72
+93992,2024-12-05,853,30,Home & Living,Pillow,1,153.82,Credit Card,West Cynthiaton,4.0,,29
+95874,2024-12-30,424,50,Sports & Outdoors,Soccer Ball,3,303.48,Bank Transfer,East Christopherborough,,,48
+71289,2025-01-11,815,30,Home & Living,Vase,1,450.81,Bank Transfer,East Kylie,,M,50
+46992,2024-05-13,824,20,Fashion,T-shirt,2,227.13,Cash on Delivery,East Corytown,,F,30
+21565,2024-08-13,499,50,Sports & Outdoors,Soccer Ball,4,484.81,Credit Card,Martinezview,,F,43
+26160,2025-03-04,374,20,Fashion,Skirt,2,452.2,Credit Card,North Terrancehaven,3.0,,25
+35007,2024-06-09,355,30,Home & Living,Vase,2,149.77,Cash on Delivery,Lake Rhondatown,5.0,,65
+37401,2024-08-16,861,50,Sports & Outdoors,Soccer Ball,1,376.51,Credit Card,Lake Jeffrey,,F,63
+82700,2024-05-30,410,50,Sports & Outdoors,Basketball,5,37.87,Cash on Delivery,New Carolfort,,M,55
+38245,2024-11-11,615,50,Sports & Outdoors,Soccer Ball,4,340.85,Credit Card,Franklinmouth,4.0,,36
+53004,2024-09-19,309,30,Home & Living,Carpet,5,249.38,Credit Card,New Brittanytown,,M,20
+15676,2024-04-22,649,40,Books & Stationery,Eraser,3,355.78,Cash on Delivery,Rachelland,,M,72
+73293,2024-04-30,799,50,Sports & Outdoors,Basketball,1,463.62,Credit Card,Port Thomaston,5.0,,72
+51031,2024-05-25,216,40,Books & Stationery,Story Book,4,140.73,Cash on Delivery,Lake Nancy,,F,50
+13112,2024-12-15,202,10,Electronics,Headphones,2,182.06,Cash on Delivery,South Katherineside,3.0,,35
+76490,2024-12-17,362,30,Home & Living,Vase,5,307.04,Cash on Delivery,Roymouth,,F,48
+45081,2025-02-05,721,20,Fashion,Dress,4,31.75,Bank Transfer,East Charles,,,55
+65624,2024-03-26,732,50,Sports & Outdoors,Basketball,2,188.47,Credit Card,West Krista,5.0,,63
+99624,2024-06-29,624,20,Fashion,Dress,4,120.07,Credit Card,West Louis,,M,20
+20770,2024-11-01,941,10,Electronics,Smartphone,2,391.43,Credit Card,Moranland,,,44
+44293,2024-10-26,212,20,Fashion,Skirt,4,337.11,Cash on Delivery,West Sandrachester,4.0,,72
+11849,2024-08-14,141,40,Books & Stationery,Eraser,5,409.35,Cash on Delivery,South Scott,4.0,,23
+64326,2024-08-15,348,40,Books & Stationery,Notebook,5,275.88,Bank Transfer,Rachelburgh,,F,63
+97350,2025-03-06,770,40,Books & Stationery,Story Book,4,143.74,Bank Transfer,West Kathleen,,M,70
+92572,2024-06-29,634,40,Books & Stationery,Eraser,4,286.55,Credit Card,East David,,M,60
+72081,2024-07-25,563,40,Books & Stationery,Pen,3,471.32,Credit Card,Trevinoland,,F,63
+58032,2024-04-04,133,30,Home & Living,Carpet,4,14.97,Credit Card,Lake Sethfurt,,F,22
+47601,2024-07-31,793,50,Sports & Outdoors,Yoga Mat,2,241.9,Cash on Delivery,South Ashleyshire,3.0,,24
+62697,2024-09-19,774,10,Electronics,Headphones,2,471.12,Bank Transfer,Murrayville,,M,25
+45453,2024-08-15,363,40,Books & Stationery,Novel,3,292.74,Cash on Delivery,West Michaelton,,M,63
+41166,2024-04-17,783,50,Sports & Outdoors,Yoga Mat,5,51.74,Credit Card,North Matthew,,F,61
+32285,2024-08-23,978,10,Electronics,Laptop,1,127.53,Cash on Delivery,West Danielborough,,M,43
+77934,2025-01-16,695,20,Fashion,Skirt,1,66.24,Credit Card,Holmesland,5.0,,27
+39027,2024-12-26,757,30,Home & Living,Carpet,1,274.59,Bank Transfer,Russellton,,M,23
+30197,2024-07-09,386,40,Books & Stationery,Notebook,1,305.82,Credit Card,Port George,,,39
+79948,2024-08-14,858,40,Books & Stationery,Novel,2,164.11,Bank Transfer,South Caroline,,F,66
+28063,2024-05-03,398,30,Home & Living,Carpet,5,16.7,Bank Transfer,Robertsbury,,,26
+77523,2025-01-28,543,30,Home & Living,Carpet,5,355.65,Bank Transfer,Danielfurt,5.0,,21
+60807,2025-01-07,798,20,Fashion,Skirt,1,280.12,Bank Transfer,East Andrea,,F,39
+14361,2024-12-12,178,50,Sports & Outdoors,Running Shoes,4,233.12,Bank Transfer,Robertbury,5.0,,23
+99182,2024-12-19,395,20,Fashion,Shirt,3,197.66,Bank Transfer,Garciahaven,,F,23
+49651,2024-04-08,937,40,Books & Stationery,Novel,4,267.72,Bank Transfer,West Elizabethbury,,M,19
+43043,2025-02-27,203,10,Electronics,Headphones,5,185.65,Bank Transfer,East Justintown,,F,24
+87787,2024-05-13,836,40,Books & Stationery,Notebook,2,233.85,Bank Transfer,East Daniel,,M,67
+85614,2025-03-13,189,20,Fashion,T-shirt,5,452.67,Cash on Delivery,Harrisberg,,F,70
+89312,2024-08-30,276,10,Electronics,Smartwatch,3,188.78,Credit Card,Veronicaburgh,,M,31
+77706,2024-06-17,111,50,Sports & Outdoors,Yoga Mat,2,416.93,Bank Transfer,Edwardstad,5.0,,33
+55003,2024-11-13,910,10,Electronics,Smartphone,4,159.14,Bank Transfer,Englishmouth,,M,74
+46001,2024-10-14,661,50,Sports & Outdoors,Running Shoes,1,297.8,Cash on Delivery,Hayesshire,,M,40
+56829,2024-08-04,839,10,Electronics,Tablet,1,311.67,Bank Transfer,West Justinburgh,,M,59
+15545,2024-12-08,128,40,Books & Stationery,Pen,2,475.77,Bank Transfer,Johnsonborough,,F,65
+21109,2024-07-17,719,50,Sports & Outdoors,Yoga Mat,3,39.67,Bank Transfer,Sellersland,,M,37
+59875,2024-08-02,210,40,Books & Stationery,Novel,4,334.76,Cash on Delivery,Sherylfort,5.0,,49
+20485,2024-06-07,602,20,Fashion,T-shirt,4,333.92,Credit Card,Gregoryview,,M,44
+60024,2024-08-21,643,50,Sports & Outdoors,Yoga Mat,5,234.44,Credit Card,Port Suzannebury,,F,71
+23687,2025-03-03,371,10,Electronics,Headphones,2,308.07,Credit Card,New Peterport,,F,68
+98627,2025-01-24,886,30,Home & Living,Blanket,4,346.54,Bank Transfer,Taylorport,,F,25
+58103,2025-01-29,389,30,Home & Living,Vase,3,435.37,Cash on Delivery,Nicholasfurt,,M,18
+25952,2024-12-30,448,20,Fashion,Pants,5,287.5,Bank Transfer,Amandafort,,F,73
+60144,2025-01-23,287,10,Electronics,Smartphone,4,86.23,Cash on Delivery,Marshallside,,M,65
+32569,2025-02-06,336,40,Books & Stationery,Eraser,2,336.89,Credit Card,Port Catherine,1.0,,26
+53191,2024-11-21,852,30,Home & Living,Pillow,4,204.56,Cash on Delivery,Jenniferberg,,M,30
+16865,2025-01-06,991,30,Home & Living,Pillow,3,208.47,Bank Transfer,Port Stephanie,,,39
+47725,2024-09-12,320,20,Fashion,Dress,3,106.66,Cash on Delivery,Bradleyview,,F,36
+95354,2024-07-13,394,50,Sports & Outdoors,Running Shoes,2,343.76,Cash on Delivery,Shawberg,5.0,,30
+44704,2025-02-25,911,30,Home & Living,Carpet,4,37.52,Cash on Delivery,Mccannfurt,,F,62
+88424,2024-06-06,535,10,Electronics,Smartphone,2,190.68,Bank Transfer,West Timothy,,F,44
+76010,2024-09-24,248,30,Home & Living,Pillow,1,257.23,Credit Card,Stevenfurt,,F,51
+75278,2025-03-03,538,40,Books & Stationery,Eraser,3,266.15,Credit Card,Javierview,3.0,,59
+50813,2025-01-29,481,50,Sports & Outdoors,Basketball,4,173.35,Cash on Delivery,East Hannah,5.0,,70
+23601,2024-08-12,468,40,Books & Stationery,Notebook,3,408.46,Cash on Delivery,East William,5.0,,57
+92232,2024-03-28,961,40,Books & Stationery,Story Book,4,410.28,Cash on Delivery,Adamsfort,,M,33
+23747,2024-08-15,558,10,Electronics,Headphones,1,51.1,Credit Card,Tammymouth,2.0,,36
+30321,2024-12-11,665,30,Home & Living,Pillow,3,477.17,Cash on Delivery,Alvaradoview,4.0,,59
+43115,2024-12-28,144,50,Sports & Outdoors,Soccer Ball,3,201.32,Bank Transfer,New Joshua,,M,65
+56081,2025-03-09,502,10,Electronics,Smartwatch,5,370.24,Bank Transfer,Kennethton,,M,38
+99272,2024-04-26,847,20,Fashion,Pants,3,40.92,Bank Transfer,South Becky,,M,66
+99923,2024-12-28,145,20,Fashion,T-shirt,3,164.64,Bank Transfer,Port Thomasstad,4.0,,66
+29197,2024-06-26,491,50,Sports & Outdoors,Running Shoes,5,134.12,Cash on Delivery,Lake Anne,,M,49
+72727,2024-12-26,773,20,Fashion,Shirt,3,153.95,Credit Card,Brownland,,F,42
+35088,2024-08-14,157,30,Home & Living,Vase,5,305.28,Bank Transfer,Port Michelle,,M,50
+88802,2024-11-12,452,20,Fashion,Pants,2,398.91,Cash on Delivery,Sandrafurt,1.0,,56
+84845,2024-05-15,614,40,Books & Stationery,Eraser,4,73.59,Credit Card,Mejiahaven,,M,71
+54625,2025-01-21,539,50,Sports & Outdoors,Tent,3,99.16,Credit Card,West Tyler,4.0,,70
+10403,2024-05-03,643,10,Electronics,Smartphone,5,263.87,Bank Transfer,Lake Kimberlyburgh,,M,65
+90952,2024-09-05,360,50,Sports & Outdoors,Tent,2,55.78,Cash on Delivery,Rachelborough,,,60
+44592,2024-08-17,909,50,Sports & Outdoors,Soccer Ball,2,414.37,Credit Card,Laurenmouth,,,66
+80435,2024-07-05,681,40,Books & Stationery,Notebook,1,232.24,Cash on Delivery,Kennethfort,,M,41
+14447,2024-03-20,761,40,Books & Stationery,Pen,2,109.97,Cash on Delivery,Peterston,,F,69
+26545,2024-05-08,985,30,Home & Living,Carpet,2,470.08,Credit Card,Millerhaven,,F,54
+87690,2024-04-08,775,50,Sports & Outdoors,Running Shoes,5,82.98,Cash on Delivery,East Kristen,,,41
+79470,2025-03-12,247,40,Books & Stationery,Novel,2,190.5,Cash on Delivery,Paulborough,,M,41
+55426,2024-12-08,139,50,Sports & Outdoors,Running Shoes,5,448.92,Bank Transfer,East Josestad,5.0,,69
+79928,2024-12-16,246,20,Fashion,Dress,3,30.61,Cash on Delivery,East Chris,,,50
+79476,2024-09-20,880,50,Sports & Outdoors,Basketball,4,322.59,Credit Card,North Cristianview,,M,25
+52052,2024-10-27,247,40,Books & Stationery,Novel,3,343.78,Credit Card,North Benjaminton,,F,20
+51679,2024-03-29,861,40,Books & Stationery,Pen,4,101.29,Cash on Delivery,Williamsfort,5.0,,32
+10201,2024-10-14,455,10,Electronics,Smartphone,4,156.21,Cash on Delivery,Leeborough,,,23
+87219,2024-05-06,234,50,Sports & Outdoors,Yoga Mat,1,52.5,Cash on Delivery,Sanchezborough,,,25
+85009,2025-01-23,260,50,Sports & Outdoors,Tent,4,109.06,Cash on Delivery,Janetfort,,M,21
+36125,2024-06-06,521,50,Sports & Outdoors,Running Shoes,5,406.26,Bank Transfer,Rossview,,M,30
+39825,2024-03-28,301,40,Books & Stationery,Notebook,5,353.19,Cash on Delivery,New Isaacmouth,5.0,,50
+32037,2024-11-07,897,10,Electronics,Tablet,5,25.55,Bank Transfer,South Holly,,M,42
+13595,2024-08-02,311,40,Books & Stationery,Notebook,1,496.5,Bank Transfer,East Andrew,4.0,,25
+15824,2024-12-25,119,10,Electronics,Laptop,2,256.91,Bank Transfer,Vincenttown,1.0,,58
+63722,2024-06-24,614,30,Home & Living,Blanket,1,404.83,Credit Card,East Carlos,4.0,,36
+63051,2024-08-15,525,50,Sports & Outdoors,Running Shoes,1,100.18,Cash on Delivery,South Wesley,5.0,,33
+20636,2024-03-22,707,10,Electronics,Laptop,2,257.81,Bank Transfer,Parkerfurt,,F,31
+68604,2024-04-07,117,50,Sports & Outdoors,Running Shoes,2,333.05,Credit Card,North Donna,,F,45
+46587,2024-06-26,715,50,Sports & Outdoors,Running Shoes,3,405.02,Credit Card,South Jimmyland,,M,52
+57457,2024-05-11,284,20,Fashion,Shirt,1,80.65,Cash on Delivery,South Shanehaven,5.0,,37
+84991,2024-11-20,434,50,Sports & Outdoors,Yoga Mat,1,198.08,Cash on Delivery,East Anthonymouth,,,33
+17263,2024-06-10,542,10,Electronics,Smartwatch,5,375.27,Bank Transfer,West Charlestown,,M,47
+66122,2024-11-06,280,50,Sports & Outdoors,Yoga Mat,1,401.05,Cash on Delivery,Ryanberg,,M,46
+60664,2024-08-12,809,30,Home & Living,Vase,3,186.36,Bank Transfer,East William,,M,21
+89114,2024-07-14,397,30,Home & Living,Painting,3,251.63,Credit Card,New Dylan,,M,40
+96674,2024-04-30,674,40,Books & Stationery,Eraser,3,312.17,Bank Transfer,Reedside,,M,21
+42068,2024-05-12,529,40,Books & Stationery,Notebook,5,152.81,Cash on Delivery,Rosebury,5.0,,19
+23008,2024-11-01,248,20,Fashion,Dress,5,194.27,Bank Transfer,Richardshire,3.0,,53
+89715,2024-07-06,941,10,Electronics,Headphones,1,213.83,Credit Card,South Lauren,,,28
+78277,2025-01-17,157,30,Home & Living,Pillow,4,406.99,Credit Card,Keithland,,M,38
+90910,2024-04-17,280,20,Fashion,Skirt,3,300.18,Bank Transfer,Johnnystad,,M,24
+42128,2024-11-13,563,30,Home & Living,Pillow,2,292.9,Cash on Delivery,North Rebeccashire,,M,46
+40110,2024-07-03,325,50,Sports & Outdoors,Running Shoes,5,309.54,Cash on Delivery,North Johnny,,M,27
+23672,2024-10-30,158,20,Fashion,Shirt,2,91.76,Bank Transfer,Aprilshire,,M,49
+97353,2025-02-20,626,40,Books & Stationery,Eraser,2,117.09,Bank Transfer,North Jacobland,,F,31
+81512,2024-12-23,976,50,Sports & Outdoors,Soccer Ball,3,76.44,Bank Transfer,East Joshua,5.0,,49
+99423,2024-08-30,675,30,Home & Living,Painting,5,175.5,Cash on Delivery,Adrianmouth,,F,73
+35152,2025-03-01,106,20,Fashion,Dress,1,87.9,Bank Transfer,Christopherville,,M,64
+28742,2024-06-02,184,10,Electronics,Headphones,5,335.61,Cash on Delivery,Christinaview,,M,34
+87467,2024-10-05,199,20,Fashion,Skirt,4,53.77,Credit Card,Judithbury,,M,38
+74278,2024-10-13,225,50,Sports & Outdoors,Tent,1,304.0,Cash on Delivery,Harrytown,2.0,,24
+50980,2024-05-29,688,40,Books & Stationery,Eraser,2,44.8,Credit Card,New Donnatown,5.0,,27
+47212,2024-03-28,856,20,Fashion,Skirt,4,477.68,Credit Card,Port Jordan,,M,29
+92276,2024-07-11,555,50,Sports & Outdoors,Tent,4,311.86,Bank Transfer,West Jesus,,M,63
+90560,2024-05-26,739,30,Home & Living,Blanket,2,68.53,Cash on Delivery,Lake Gabriella,,M,69
+84937,2024-05-02,186,50,Sports & Outdoors,Yoga Mat,4,37.17,Cash on Delivery,Montgomeryberg,,M,45
+11164,2024-11-20,154,10,Electronics,Smartphone,5,129.83,Bank Transfer,Yatesstad,3.0,,44
+54627,2024-08-18,297,30,Home & Living,Painting,1,52.33,Bank Transfer,Taraborough,,M,42
+26759,2024-04-30,762,30,Home & Living,Pillow,3,110.55,Credit Card,East Loretta,4.0,,44
+20019,2025-03-04,886,40,Books & Stationery,Novel,4,300.03,Credit Card,Jeremyview,4.0,,34
+14911,2025-01-18,589,30,Home & Living,Painting,2,231.85,Credit Card,New Madeline,,M,74
+51971,2024-04-09,990,50,Sports & Outdoors,Soccer Ball,4,115.36,Bank Transfer,Port Johnport,,F,41
+40849,2025-01-03,554,10,Electronics,Tablet,4,59.93,Credit Card,North Julie,,M,23
+93663,2024-04-25,482,10,Electronics,Smartwatch,1,297.2,Credit Card,Gonzalesside,,M,53
+92929,2024-10-13,716,40,Books & Stationery,Story Book,2,55.07,Bank Transfer,Rogersfurt,,,44
+25536,2024-08-07,482,10,Electronics,Tablet,3,344.77,Credit Card,Lake John,3.0,,43
+45637,2024-10-22,961,30,Home & Living,Painting,3,228.55,Credit Card,East Whitney,,F,62
+44994,2024-12-14,879,10,Electronics,Tablet,5,269.42,Cash on Delivery,Lake April,5.0,,42
+76203,2024-04-03,307,20,Fashion,Dress,5,39.18,Credit Card,Port Jeffrey,4.0,,61
+45679,2025-02-08,470,10,Electronics,Smartwatch,4,431.73,Credit Card,Gutierrezville,3.0,,75
+83914,2024-07-12,738,40,Books & Stationery,Eraser,2,59.51,Bank Transfer,Holtbury,3.0,,25
+58848,2024-08-08,876,30,Home & Living,Blanket,2,97.08,Credit Card,North Jennifer,5.0,,36
+69817,2024-12-12,100,10,Electronics,Laptop,4,179.94,Bank Transfer,West Jennifer,,F,18
+43023,2024-11-13,241,30,Home & Living,Painting,5,395.64,Cash on Delivery,Lake Michaelport,,M,44
+96041,2024-09-22,595,10,Electronics,Smartphone,2,177.49,Bank Transfer,Kirbyport,,M,56
+81896,2025-01-20,105,40,Books & Stationery,Story Book,2,307.59,Bank Transfer,New Matthew,,M,21
+56269,2024-08-25,575,30,Home & Living,Painting,5,155.73,Credit Card,Leachstad,,F,57
+28381,2024-04-26,973,30,Home & Living,Pillow,1,324.51,Bank Transfer,Loribury,,F,35
+63278,2024-05-31,722,40,Books & Stationery,Eraser,2,215.13,Cash on Delivery,Lake Matthew,5.0,,53
+61332,2024-06-01,200,50,Sports & Outdoors,Basketball,2,68.94,Bank Transfer,Paulberg,,,39
+16119,2024-12-03,628,20,Fashion,Pants,1,71.83,Bank Transfer,Williamsside,,F,28
+36278,2024-11-09,246,50,Sports & Outdoors,Running Shoes,2,65.13,Credit Card,Reginachester,,F,75
+62981,2024-07-20,200,30,Home & Living,Painting,2,422.99,Cash on Delivery,Wrightport,5.0,,67
+73536,2024-06-12,311,30,Home & Living,Vase,5,306.44,Credit Card,Port Ashleyview,,M,61
+99315,2024-10-03,618,30,Home & Living,Painting,3,413.52,Cash on Delivery,Michelleview,3.0,,39
+10679,2024-04-23,819,10,Electronics,Laptop,4,192.51,Cash on Delivery,Douglashaven,4.0,,53
+53474,2024-09-26,892,40,Books & Stationery,Eraser,5,280.15,Bank Transfer,Johnburgh,,F,44
+47962,2024-06-13,396,10,Electronics,Headphones,3,23.45,Credit Card,Bryceland,,F,22
+46239,2025-01-26,413,50,Sports & Outdoors,Soccer Ball,2,433.67,Cash on Delivery,Landryburgh,,,52
+54306,2024-09-26,409,50,Sports & Outdoors,Running Shoes,1,333.66,Cash on Delivery,Jacobfort,,M,39
+81133,2024-11-16,682,40,Books & Stationery,Novel,1,240.56,Cash on Delivery,East Kristin,4.0,,33
+82756,2024-09-28,597,10,Electronics,Tablet,3,445.82,Cash on Delivery,Ricemouth,,F,73
+14276,2024-09-14,513,50,Sports & Outdoors,Yoga Mat,5,212.42,Credit Card,East Stevenmouth,,M,73
+48855,2024-11-05,809,40,Books & Stationery,Eraser,1,447.49,Bank Transfer,Watkinsburgh,,F,47
+92507,2024-07-19,170,20,Fashion,Skirt,1,394.75,Credit Card,Bridgetchester,,M,48
+91997,2024-03-21,118,30,Home & Living,Vase,4,445.11,Credit Card,South Wanda,3.0,,47
+38807,2024-10-11,756,30,Home & Living,Blanket,4,90.79,Bank Transfer,Curryhaven,,M,63
+56948,2025-01-28,349,20,Fashion,Pants,3,350.64,Cash on Delivery,Port Christopher,,M,55
+32947,2025-01-10,387,40,Books & Stationery,Story Book,2,308.41,Bank Transfer,Morrisonmouth,5.0,,41
+27766,2024-09-25,257,30,Home & Living,Vase,5,154.72,Credit Card,Lake Troyshire,4.0,,39
+21745,2024-12-23,560,40,Books & Stationery,Notebook,5,124.91,Credit Card,Schultzborough,5.0,,54
+84736,2024-06-27,624,30,Home & Living,Painting,1,218.74,Credit Card,Denisefurt,,F,68
+45241,2024-10-14,448,40,Books & Stationery,Eraser,5,141.47,Cash on Delivery,Port Stacey,,F,29
+91430,2024-11-08,417,40,Books & Stationery,Pen,5,327.93,Credit Card,Tinaport,,F,36
+42912,2024-10-05,811,40,Books & Stationery,Novel,5,60.3,Bank Transfer,Joshuaborough,,F,21
+29111,2024-11-12,355,30,Home & Living,Carpet,3,265.77,Cash on Delivery,Brownmouth,,F,18
+63014,2025-03-12,323,20,Fashion,Dress,3,62.81,Bank Transfer,East David,,F,39
+50538,2024-10-02,868,40,Books & Stationery,Eraser,2,246.64,Cash on Delivery,North Ryanfort,5.0,,33
+31600,2025-02-19,775,50,Sports & Outdoors,Basketball,2,367.94,Credit Card,Lake Maryborough,,F,32
+64799,2024-10-30,950,50,Sports & Outdoors,Yoga Mat,4,346.44,Cash on Delivery,East Christopher,,F,71
+48362,2024-05-12,186,10,Electronics,Tablet,1,81.21,Cash on Delivery,Guzmanside,,M,45
+31977,2024-04-01,490,50,Sports & Outdoors,Tent,5,371.84,Credit Card,North Marissa,5.0,,52
+18511,2024-04-07,877,30,Home & Living,Vase,4,96.94,Cash on Delivery,West Alicia,,,56
+13011,2024-07-29,231,20,Fashion,Skirt,2,276.11,Bank Transfer,Lunafort,,M,69
+92859,2024-09-12,727,50,Sports & Outdoors,Running Shoes,3,498.35,Cash on Delivery,Patriciaville,,F,27
+36759,2024-04-16,952,40,Books & Stationery,Novel,5,155.25,Cash on Delivery,Michaelfurt,,F,43
+43995,2024-04-26,537,40,Books & Stationery,Novel,4,375.98,Credit Card,South Donna,,F,62
+97308,2024-05-21,712,40,Books & Stationery,Notebook,2,18.28,Cash on Delivery,New Melissa,,M,64
+86727,2025-03-10,102,50,Sports & Outdoors,Soccer Ball,4,380.42,Cash on Delivery,Patriciafort,,F,46
+82945,2024-05-23,952,40,Books & Stationery,Pen,2,203.61,Cash on Delivery,Francofort,,M,39
+49769,2025-02-11,295,50,Sports & Outdoors,Yoga Mat,5,405.77,Bank Transfer,Garciafurt,,M,26
+18860,2025-01-13,860,20,Fashion,Skirt,1,145.57,Bank Transfer,West Austin,,F,61
+14029,2025-02-20,436,50,Sports & Outdoors,Yoga Mat,4,113.64,Credit Card,Lake Hayley,,F,57
+29123,2024-09-12,506,20,Fashion,T-shirt,3,72.66,Cash on Delivery,East Daleton,,F,39
+47637,2024-09-28,197,40,Books & Stationery,Eraser,2,484.93,Cash on Delivery,West Mary,,F,42
+55956,2024-05-17,110,20,Fashion,Pants,3,416.88,Cash on Delivery,Smithville,,F,70
+60036,2024-11-27,244,20,Fashion,Shirt,4,333.23,Bank Transfer,South Julieborough,,F,57
+99265,2024-08-24,532,10,Electronics,Smartwatch,5,266.04,Cash on Delivery,Garyville,,F,43
+22739,2024-07-15,196,30,Home & Living,Carpet,5,217.55,Bank Transfer,South Matthewburgh,5.0,,24
+31253,2024-12-11,226,40,Books & Stationery,Story Book,3,428.95,Cash on Delivery,New Coleside,,M,43
+96221,2025-02-14,136,50,Sports & Outdoors,Soccer Ball,1,88.76,Cash on Delivery,East Tanyafurt,,M,31
+98713,2025-02-05,260,20,Fashion,Skirt,1,463.67,Bank Transfer,Catherinebury,,M,37
+79880,2024-06-01,664,30,Home & Living,Pillow,5,308.42,Cash on Delivery,Scottburgh,3.0,,20
+79018,2024-09-08,460,50,Sports & Outdoors,Tent,2,150.37,Cash on Delivery,Port Samantha,,F,54
+88218,2025-02-04,299,20,Fashion,Skirt,3,225.1,Credit Card,Martinezshire,5.0,,40
+55371,2024-04-02,753,50,Sports & Outdoors,Basketball,4,263.69,Cash on Delivery,South Anthonyfurt,5.0,,73
+36683,2025-02-21,125,10,Electronics,Headphones,2,95.77,Cash on Delivery,Ellisland,,M,68
+58481,2024-04-18,128,50,Sports & Outdoors,Yoga Mat,4,99.56,Cash on Delivery,Taylorland,5.0,,57
+82649,2024-11-26,983,20,Fashion,Pants,1,419.8,Bank Transfer,Smithmouth,,M,60
+86183,2025-02-21,263,50,Sports & Outdoors,Yoga Mat,3,204.96,Cash on Delivery,Port Victoriashire,,F,72
+95980,2024-12-06,804,40,Books & Stationery,Pen,1,106.07,Cash on Delivery,Haileyville,,F,75
+64649,2024-12-07,438,40,Books & Stationery,Notebook,5,132.98,Cash on Delivery,Alexanderberg,,M,45
+73957,2024-07-28,834,40,Books & Stationery,Notebook,5,137.29,Bank Transfer,Shawmouth,4.0,,24
+30282,2025-02-19,411,10,Electronics,Laptop,3,91.79,Credit Card,Webbton,,,68
+11578,2024-05-22,787,40,Books & Stationery,Eraser,2,36.37,Bank Transfer,Brayfurt,4.0,,35
+32747,2024-06-30,322,50,Sports & Outdoors,Basketball,1,24.0,Cash on Delivery,Port Kimberlymouth,3.0,,71
+50842,2024-10-14,300,50,Sports & Outdoors,Running Shoes,3,266.5,Cash on Delivery,South Stephenport,4.0,,58
+50142,2024-10-18,347,20,Fashion,Dress,2,150.51,Cash on Delivery,Port Kellyport,,,18
+52849,2024-03-20,829,20,Fashion,T-shirt,3,99.38,Bank Transfer,Katherineview,,F,19
+25985,2025-02-07,480,40,Books & Stationery,Notebook,2,353.23,Bank Transfer,Port Debbieborough,,M,65
+16797,2024-07-27,333,40,Books & Stationery,Novel,1,124.08,Credit Card,North Nancyville,,M,59
+57134,2024-08-29,101,10,Electronics,Headphones,4,49.31,Credit Card,Barronborough,,F,42
+98156,2024-03-20,759,40,Books & Stationery,Story Book,3,371.43,Credit Card,Vasquezmouth,,F,48
+69632,2024-11-13,451,30,Home & Living,Painting,3,87.72,Cash on Delivery,Port James,,,36
+32787,2024-12-05,359,50,Sports & Outdoors,Tent,5,88.57,Cash on Delivery,Lindsaybury,,M,28
+24025,2024-10-16,761,10,Electronics,Laptop,5,62.46,Credit Card,Brooksmouth,,F,54
+35717,2025-03-10,374,40,Books & Stationery,Novel,1,239.35,Cash on Delivery,Danielmouth,,F,34
+97433,2024-07-26,677,10,Electronics,Smartphone,4,418.88,Credit Card,North Lisafort,5.0,,59
+82894,2024-12-15,585,20,Fashion,Shirt,1,499.23,Bank Transfer,Johnstad,5.0,,58
+36855,2024-09-22,132,10,Electronics,Headphones,2,301.92,Cash on Delivery,Port Jo,,F,43
+65571,2024-03-20,646,20,Fashion,Pants,1,135.56,Bank Transfer,Michaelside,,M,20
+19925,2025-01-29,747,20,Fashion,T-shirt,3,364.55,Bank Transfer,North Danielmouth,,F,51
+56744,2024-08-17,798,50,Sports & Outdoors,Soccer Ball,5,301.66,Bank Transfer,Lake Lindafort,,F,27
+55304,2024-11-16,417,10,Electronics,Tablet,1,36.52,Cash on Delivery,North Janet,,F,34
+41567,2025-01-25,292,20,Fashion,Dress,4,256.18,Credit Card,New Jenniferberg,,F,32
+89576,2024-09-21,774,30,Home & Living,Vase,3,82.53,Bank Transfer,Lake Jeanneview,,F,26
+63665,2024-11-14,747,30,Home & Living,Vase,1,168.47,Cash on Delivery,Stephenmouth,,F,41
+50575,2024-09-24,107,50,Sports & Outdoors,Basketball,4,225.83,Credit Card,Lake Sharonmouth,,M,29
+81790,2024-04-15,854,10,Electronics,Smartphone,5,372.39,Credit Card,North Jonathanborough,5.0,,74
+24744,2024-07-08,818,10,Electronics,Smartphone,5,200.44,Bank Transfer,South Kristi,5.0,,34
+35625,2024-11-24,863,30,Home & Living,Pillow,2,19.35,Cash on Delivery,Lake Johnland,3.0,,22
+40188,2025-02-24,533,10,Electronics,Smartwatch,1,475.07,Credit Card,Gilmoreberg,,F,75
+19405,2024-06-29,433,10,Electronics,Headphones,4,48.94,Bank Transfer,Curtisshire,,F,23
+49262,2024-07-14,910,20,Fashion,Pants,3,25.79,Credit Card,South Luishaven,5.0,,22
+97874,2024-05-30,967,20,Fashion,Pants,5,381.31,Credit Card,Lake Matthew,,,71
+99233,2024-09-08,842,20,Fashion,Shirt,1,273.56,Cash on Delivery,West Teresa,,M,43
+35014,2024-07-28,149,20,Fashion,Skirt,1,54.19,Bank Transfer,Jamesland,5.0,,33
+57116,2024-10-06,319,20,Fashion,Pants,5,11.73,Bank Transfer,Catherinestad,,F,60
+99259,2024-09-04,426,50,Sports & Outdoors,Running Shoes,3,232.33,Bank Transfer,Johntown,,F,62
+21063,2025-01-23,327,20,Fashion,Shirt,2,499.5,Bank Transfer,Dorseymouth,,M,66
+21664,2024-06-10,395,40,Books & Stationery,Novel,3,326.37,Bank Transfer,Simpsonshire,,F,39
+71609,2025-01-22,510,20,Fashion,Shirt,2,345.89,Bank Transfer,South Kristenbury,,M,24
+46034,2024-04-26,995,40,Books & Stationery,Notebook,5,115.91,Bank Transfer,Ronaldborough,,M,54
+33094,2024-08-12,298,30,Home & Living,Blanket,2,387.05,Credit Card,Lake Loristad,5.0,,68
+24639,2024-05-30,797,10,Electronics,Headphones,3,238.77,Credit Card,Garzaport,,F,49
+77076,2024-05-27,973,10,Electronics,Headphones,3,83.17,Bank Transfer,Adamsbury,,,71
+84308,2024-06-26,144,20,Fashion,Dress,5,291.3,Credit Card,Lewisfort,,F,68
+20853,2024-07-10,499,30,Home & Living,Carpet,3,227.39,Credit Card,West Alexfort,,,39
+78972,2024-10-24,112,10,Electronics,Tablet,4,288.22,Credit Card,Robinsonstad,5.0,,60
+55134,2024-12-04,837,50,Sports & Outdoors,Basketball,4,487.21,Bank Transfer,Marthabury,,M,46
+98363,2025-01-30,332,40,Books & Stationery,Story Book,2,160.94,Bank Transfer,Hallbury,,M,27
+54371,2025-02-05,325,20,Fashion,Dress,4,156.87,Cash on Delivery,East Jamesborough,3.0,,37
+67967,2024-05-04,965,40,Books & Stationery,Notebook,3,495.24,Cash on Delivery,Hodgemouth,,,30
+92290,2024-11-06,445,10,Electronics,Smartphone,5,354.64,Bank Transfer,New Amberville,,M,49
