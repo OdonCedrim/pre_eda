@@ -33,26 +33,3 @@ An integrated pipeline for **cleaning, exploratory analysis (EDA)**, and **MySQL
   Import/export tables and auto-create schemas.
 - **Scalable**:  
   Handles large datasets efficiently with categorical optimization.
-
----
-
-## 📂 Example Dataset
-
-Tested with the **[Online Retail Data](https://www.kaggle.com/datasets/ertugrulesol/online-retail-data)** (541k transactions):
-- **Key Challenges**:  
-  - Missing `CustomerID` (24.9% of records).  
-  - Outliers in `Quantity` (e.g., orders > 10,000 units).  
-  - Temporal patterns in `InvoiceDate`.
-
-**Sample Output**:  
-![Density Plot](plots/Quantity_distribution.png)  
-*Example visualization of outlier detection in the `Quantity` column.*
-
----
-
-## 🛠️ Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/EDA-Pipeline.git
-   cd EDA-Pipeline
